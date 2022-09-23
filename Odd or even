@@ -1,0 +1,9 @@
+#python
+def eo(x):
+    if x%2==0:
+        print("even!")
+    else:
+        print("odd!")
+        
+a=int(input())
+eo(a)
