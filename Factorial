@@ -1,0 +1,10 @@
+#python
+def fact(x):
+    i=1
+    b=1
+    while i<=x:
+        b*=i
+        i=i+1
+    print(b)
+a=int(input())
+fact(a)
